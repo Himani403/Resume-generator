@@ -1,0 +1,16 @@
+/*#CV-Form{
+    display: none;
+}*/
+#Resume-Template{
+    display: none;
+}
+.myimg{
+    /*border: 1px solid red;*/
+    border-radius: 60%;
+    width: 200px;
+}
+
+.background{
+    background: skyblue;
+    
+}
